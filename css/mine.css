@@ -1,0 +1,22 @@
+h1 {
+    font-size: 50px;
+    color: beige;
+    margin: 0;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+body {
+    background-color: #201f1f;
+    margin: 0;
+}
+
+.name {
+    border: 3px #ffffff;
+    border-radius: 5px;
+    width: 900px;
+    margin: 150px auto;
+    background-color: #ba3d3d;
+    text-align: center;
+}
+
